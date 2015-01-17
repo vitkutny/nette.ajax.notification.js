@@ -1,0 +1,8 @@
+{
+	"name": "nette.ajax.notification.js",
+	"version": "1.0.0",
+	"main": "nette.ajax.notification.js",
+	"dependencies": {
+		"nette.ajax.js": "~1.2"
+	}
+}
